@@ -1,3 +1,4 @@
 home
 develop
 login
+logout
